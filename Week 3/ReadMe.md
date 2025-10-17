@@ -1,7 +1,7 @@
 
 # CIS185 Week 3 Portfolio Responsive Comparison
 
-## Changes from Week 2 to Week 3
+## Changes from Week 2 to Week 4
 
 In Week 2, my portfolio was a static site with basic layout and minimal responsiveness. For Week 4, I created two new versions:
 
@@ -16,4 +16,5 @@ In Week 2, my portfolio was a static site with basic layout and minimal responsi
 	- Migrated custom fonts and colors for a similar look to the manual version.
 
 Both versions are fully responsive and visually similar, but use different techniques to achieve adaptability across devices.
+
 
